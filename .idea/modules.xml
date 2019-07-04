@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/comicServer/comicServer.iml" filepath="$PROJECT_DIR$/comicServer/comicServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/comicShow/comicShow.iml" filepath="$PROJECT_DIR$/comicShow/comicShow.iml" />
+    </modules>
+  </component>
+</project>
